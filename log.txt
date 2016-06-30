@@ -1,4 +1,4 @@
-
+/**
 add item
 
 
@@ -9,3 +9,16 @@ add item
 
 
 開始DEV分支
+**/
+
+function feature() {
+	
+}
+
+function anotherFeature() {
+	
+}
+
+function baseFunction(){
+	
+}
