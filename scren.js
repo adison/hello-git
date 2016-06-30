@@ -3,7 +3,7 @@ function screenA(){
 }
 
 function screenB(){
-	
+	var b = "not staged";	
 }
 
 function screenC(){
