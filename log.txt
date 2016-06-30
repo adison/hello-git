@@ -1,0 +1,169 @@
+
+===== Start NI-DAQ-Sample job 1.0.2 =====
+2016-06-30 16:45:16
+===== Stop NI-DAQ-Sample job 1.0.2 =====
+2016-06-30 16:45:19
+
+
+Conneted Device Dev1, serial 20492566
+********************************
+Ready to sample Dev1/ai1 data
+
+chan: Dev1/ai1
+sample time 0.050000 s
+creating task
+Creating Voltage channel...
+
+Creating Sampling clock timing...
+
+Config buffer...
+
+start task...
+
+task started
+
+Start sampling.
+running
+Acquired 1000 samples. Total 0 in 5000
+running
+Acquired 1000 samples. Total 1000 in 5000
+running
+Acquired 1000 samples. Total 2000 in 5000
+running
+Acquired 1000 samples. Total 3000 in 5000
+running
+Acquired 1000 samples. Total 4000 in 5000
+
+Acquired 5000 total samples.
+
+===== Ready to output data to file ch1.txt at 2016-06-30 08:45:18 +0000
+ch1.txt saved
+
+Stop sample task
+Dev1/ai1 sampling data saved to ch1.txt
+===============================
+
+
+
+********************************
+Ready to sample Dev1/ai3 data
+
+chan: Dev1/ai3
+sample time 0.050000 s
+creating task
+Creating Voltage channel...
+
+Creating Sampling clock timing...
+
+Config buffer...
+
+start task...
+
+task started
+
+Start sampling.
+running
+Acquired 1000 samples. Total 0 in 5000
+running
+Acquired 1000 samples. Total 1000 in 5000
+running
+Acquired 1000 samples. Total 2000 in 5000
+running
+Acquired 1000 samples. Total 3000 in 5000
+running
+Acquired 1000 samples. Total 4000 in 5000
+
+Acquired 5000 total samples.
+
+===== Ready to output data to file ch2.txt at 2016-06-30 08:45:18 +0000
+ch2.txt saved
+
+Stop sample task
+Dev1/ai3 sampling data saved to ch2.txt
+===============================
+
+
+
+********************************
+Ready to sample Dev1/ai4 data
+
+chan: Dev1/ai4
+sample time 0.050000 s
+creating task
+Creating Voltage channel...
+
+Creating Sampling clock timing...
+
+Config buffer...
+
+start task...
+
+task started
+
+Start sampling.
+running
+Acquired 1000 samples. Total 0 in 5000
+running
+Acquired 1000 samples. Total 1000 in 5000
+running
+Acquired 1000 samples. Total 2000 in 5000
+running
+Acquired 1000 samples. Total 3000 in 5000
+running
+Acquired 1000 samples. Total 4000 in 5000
+
+Acquired 5000 total samples.
+
+===== Ready to output data to file ch3.txt at 2016-06-30 08:45:19 +0000
+ch3.txt saved
+
+Stop sample task
+Dev1/ai4 sampling data saved to ch3.txt
+===============================
+
+
+
+********************************
+Ready to sample Dev1/ai2 data
+
+chan: Dev1/ai2
+sample time 0.050000 s
+creating task
+Creating Voltage channel...
+
+Creating Sampling clock timing...
+
+Config buffer...
+
+start task...
+
+task started
+
+Start sampling.
+running
+Acquired 1000 samples. Total 0 in 5000
+running
+Acquired 1000 samples. Total 1000 in 5000
+running
+Acquired 1000 samples. Total 2000 in 5000
+running
+Acquired 1000 samples. Total 3000 in 5000
+running
+Acquired 1000 samples. Total 4000 in 5000
+
+Acquired 5000 total samples.
+
+===== Ready to output data to file ch4.txt at 2016-06-30 08:45:19 +0000
+ch4.txt saved
+
+Stop sample task
+Dev1/ai2 sampling data saved to ch4.txt
+===============================
+
+
+===== Stop NI-DAQ-Sample job 1.0.2 =====
+2016-06-30 16:45:19
+Result: PASS;;
+
+
+[fg214,57,30;Program ended with exit code: 0[fg;
